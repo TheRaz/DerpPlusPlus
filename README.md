@@ -1,6 +1,9 @@
 DerpPlusPlus
 ============
 
+
+Please give BrainfuckPHP a visit instead!
+=========================================
 Please note that this project was started at 03:00, will most likely be worked on 03:00 and therefor the codequality will suffer.
 ***
 
